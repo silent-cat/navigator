@@ -24,13 +24,10 @@ button {
 }
 
 body {
+  /* border: 1px solid red; */
   background-image: url(./images/bg.jpg);
-  background-repeat: no-repeat;
-  background-position: center top;
+  background-repeat: center bottom;
   background-size: 100%;
-  /* background-size: 33.3%; */
-  /* background-position: center center; */
-  /* background-color: blue; */
 }
 header {
   padding: 6% 28% 0 28%;
